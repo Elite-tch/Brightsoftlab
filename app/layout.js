@@ -18,12 +18,12 @@ export const metadata = {
     "BrightSoftLabs specializes in building modern web applications, blockchain solutions, and digital products to drive business growth.",
   keywords:
     "BrightSoftLabs, web development, blockchain solutions, front-end development, React, Next.js, crypto payment systems, UI/UX design",
-  authors: [{ name: "BrightSoftLabs Team", url: "https://brightsoftlabs.com" }],
+  authors: [{ name: "BrightSoftLabs Team", url: "https://brightsoftlab.vercel.app/" }],
   openGraph: {
     title: "BrightSoftLabs | Innovative Web Solutions",
     description:
       "Expert web development and blockchain integration services tailored for modern businesses.",
-    url: "https://brightsoftlabs.com",
+    url: "https://brightsoftlab.vercel.app/",
     siteName: "BrightSoftLabs",
     images: [
       {

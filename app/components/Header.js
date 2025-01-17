@@ -14,7 +14,7 @@ export default function NavBar() {
   return (
     <div>
       <div className="w-full  ">
-        <nav className="text-[#1D1753] dark:text-gray-200 shadow-2xl w-full dark:shadow-lg fixed py-6 bg-white z-50 dark:bg-custom-gradient ">
+        <nav className="text-[#1D1753] dark:text-gray-200 z-10 shadow-2xl w-full dark:shadow-lg fixed py-6 bg-white  dark:bg-custom-gradient ">
           <div className='flex justify-between items-center w-[90%] mx-auto'>
             <h2 className="text-3xl font-bold">Bright<span className='text-[#f25c34]'>SoftLabs.</span></h2>
             <div className="md:hidden flex items-center gap-3 justify-center">
@@ -41,7 +41,7 @@ export default function NavBar() {
             </div>
           </div>
         </nav>
-        <div className={`fixed top-0 right-0 w-[50%] px-8 h-full bg-white dark:bg-custom-gradient shadow-lg transform ${isOpen ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-in-out`}>
+        <div className={`fixed top-0 right-0 w-[50%] z-10 px-8 h-full bg-white dark:bg-custom-gradient shadow-lg transform ${isOpen ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-in-out`}>
           <button onClick={toggleSidebar} className="text-3xl p-4">
             &times;
           </button>
