@@ -41,7 +41,7 @@ export default function NavBar() {
             </div>
           </div>
         </nav>
-        <div className={`fixed top-0 right-0 w-[50%] z-10 px-8 h-full bg-white dark:bg-custom-gradient shadow-lg transform ${isOpen ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-in-out`}>
+        <div className={`fixed top-0 right-0 w-[70%] z-10 px-8 h-full bg-white dark:bg-custom-gradient shadow-lg transform ${isOpen ? 'translate-x-0' : 'translate-x-full'} transition-transform duration-300 ease-in-out`}>
           <button onClick={toggleSidebar} className="text-3xl p-4">
             &times;
           </button>

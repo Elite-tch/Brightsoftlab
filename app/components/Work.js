@@ -20,7 +20,7 @@ export default function WorkPage() {
     {/*line one  */}
 <div data-aos="fade-right" className='flex flex-col gap-5 md:w-[80%] bg-gray-100  dark:bg-gray-900 px-5 pb-6 rounded-md'>
 <div>
-<video className="h-80" autoPlay muted>
+<video className="md:h-80" autoPlay muted>
   <source src="https://res.cloudinary.com/dibwnfwk9/video/upload/v1736887933/WhatsApp_Video_2025-01-14_at_20.04.49_70d911f5_npxr8x.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>  
@@ -52,7 +52,7 @@ export default function WorkPage() {
 
 <div data-aos="zoom-in" className='flex flex-col gap-5 md:w-[80%] bg-gray-100  dark:bg-gray-900 px-5 pb-6 rounded-md'>
 <div>
-<video className="h-80" autoPlay muted>
+<video className="md:h-80" autoPlay muted>
   <source src="https://res.cloudinary.com/dibwnfwk9/video/upload/v1736887965/WhatsApp_Video_2025-01-14_at_20.34.44_231ea1dc_iklxkd.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>  
@@ -91,7 +91,7 @@ export default function WorkPage() {
     {/*line three */}
         <div data-aos="fade-up" className='flex flex-col gap-5 md:w-[80%] bg-gray-100 dark:bg-gray-900 px-5 pb-6 rounded-md'>
           <div>
-            <video className="h-80" autoPlay muted>
+            <video className="md:h-80" autoPlay muted>
               <source src="https://res.cloudinary.com/dibwnfwk9/video/upload/v1736888840/WhatsApp_Video_2025-01-14_at_20.31.07_6ca8e5ca_wuhyne.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
@@ -128,7 +128,7 @@ export default function WorkPage() {
 {/*line fourth */}
 <div data-aos="zoom-out" className='flex flex-col gap-5 md:w-[80%] bg-gray-100 dark:bg-gray-900 px-5 pb-6 rounded-md'>
 <div>
-  <video className="h-80" autoPlay muted>
+  <video className="md:h-80" autoPlay muted>
     <source src="https://res.cloudinary.com/dibwnfwk9/video/upload/v1736887947/WhatsApp_Video_2025-01-14_at_20.31.10_53b29416_qu1wbk.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
