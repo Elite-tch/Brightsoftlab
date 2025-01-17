@@ -54,7 +54,7 @@ export default function HeroPage() {
               </div>  
 
             {/*  <div data-aos="zoom-in" className="">
-              <Image src='https://res.cloudinary.com/dibwnfwk9/image/upload/v1737006483/web-development-concept-in-3d-isometric-design-designer-works-with-code-interface-engineering-programming-settings-and-optimizes-pages-template-with-people-scene-illustration-for-webpage-vector-remove_hx2zjf.png' alt='' width={650} height={350} className="h-[100%] rounded-xl"/>
+              <Image src='https://res.cloudinary.com/dibwnfwk9/image/upload/v1737093938/concept119_773186-441_pmmlag.avif' alt='' width={650} height={350} className="h-[100%] rounded-xl"/>
               </div>  */}
          </div>  
 
