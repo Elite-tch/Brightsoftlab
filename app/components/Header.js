@@ -50,7 +50,7 @@ export default function NavBar() {
             <Link className='hover:border-b-2 hover:border-[#f25c34] px-4 py-1 w-fit' href="#about">About</Link>
             <Link className='hover:border-b-2 hover:border-[#f25c34] px-4 py-1 w-fit' href="#contact">Contact</Link>
             <Link className='hover:border-b-2 hover:border-[#f25c34] px-4 py-1 w-fit' href="#project">Projects</Link>
-            <Link className='hover:border-b-2 hover:border-[#f25c34]  px-4 py-1' href="#testimonials">Testimonials</Link>
+            <Link className='hover:border-b-2 hover:border-[#f25c34] w-fit  px-4 py-1' href="#testimonials">Testimonials</Link>
         
             <button className="hover:bg-[#1D1753] bg-[#f25c34] dark:bg[#f25c34]  w-fit text-white px-4 py-2 rounded-md">
               <Link href="https://docs.google.com/document/d/1kxZU15HRndlZsN3i7kTk9ILCo39URT7CvSooX1RpNAo/edit?usp=sharing">Download CV</Link>
