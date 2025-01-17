@@ -30,7 +30,7 @@ export default function HeroPage() {
          <button className="bg-[#f25c34] dark:bg-transparent dark:border dark:hover:text-[#f25c34] hover:bg-[#1D1753]/90 dark:hover:border-[#f25c34] uppercase text-white px-4 py-2 rounded-md">
             <Link href='#contact'>Hire Me</Link></button>
          <button className="bg-transparent dark:bg-[#f25c34] dark:hover:bg-[#f25c34]/80 uppercase text-[#1D1753] border border-[#1D1753] hover:bg-gray-100 dark:text-white px-4 py-2 rounded-md">
-              <Link href='#projects'>Explore My Work</Link></button>
+              <Link href='#project'>Explore My Work</Link></button>
      </div>
 <div className="text-[#1D1753] dark:text-gray-200 mt-4 flex md:flex-row flex-col gap-4">
 <div className=" flex w-fit flex-col border-r border-[#1D1753] dark:border-gray-200 pr-4">
