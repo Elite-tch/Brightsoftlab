@@ -18,12 +18,12 @@ export const metadata = {
     "JBTech Solutions specializes in building modern web applications, blockchain solutions, and digital products to drive business growth.",
   keywords:
     "JBTech Solutions, web development, blockchain solutions, front-end development, React, Next.js, crypto payment systems, UI/UX design",
-  authors: [{ name: "JBTech Solutions", url: "https://brightsoftlab.vercel.app/" }],
+  authors: [{ name: "JBTech Solutions", url: "https://jbtsolutions.vercel.app/" }],
   openGraph: {
     title: "JBTech Solutions | Innovative Web Solutions",
     description:
       "Expert web development and blockchain integration services tailored for modern businesses.",
-    url: "https://brightsoftlab.vercel.app/",
+    url: "https://jbtsolutions.vercel.app/",
     siteName: "JBTech Solutions",
     images: [
       {
