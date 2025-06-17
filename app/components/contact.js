@@ -69,7 +69,7 @@ export default function ContactForm() {
 
     </div>
     <footer className="text-center py-4 mt-8 md:mt-16 border-t dark:border-gray-700">
-  <p>&copy; {new Date().getFullYear()} Bright<span className='text-[#f25c34]'>SoftLabs.</span> All rights reserved.</p>
+  <p>&copy; {new Date().getFullYear()} JBTech<span className='text-[#f25c34]'>-Solutions</span> All rights reserved.</p>
 </footer>
 
     </section>

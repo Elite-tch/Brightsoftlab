@@ -13,40 +13,40 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BrightSoftLabs | Innovative Web Solutions & Development",
+  title: "JBTech Solutions | Innovative Web Solutions & Development",
   description:
-    "BrightSoftLabs specializes in building modern web applications, blockchain solutions, and digital products to drive business growth.",
+    "JBTech Solutions specializes in building modern web applications, blockchain solutions, and digital products to drive business growth.",
   keywords:
-    "BrightSoftLabs, web development, blockchain solutions, front-end development, React, Next.js, crypto payment systems, UI/UX design",
-  authors: [{ name: "BrightSoftLabs Team", url: "https://brightsoftlab.vercel.app/" }],
+    "JBTech Solutions, web development, blockchain solutions, front-end development, React, Next.js, crypto payment systems, UI/UX design",
+  authors: [{ name: "JBTech Solutions", url: "https://brightsoftlab.vercel.app/" }],
   openGraph: {
-    title: "BrightSoftLabs | Innovative Web Solutions",
+    title: "JBTech Solutions | Innovative Web Solutions",
     description:
       "Expert web development and blockchain integration services tailored for modern businesses.",
     url: "https://brightsoftlab.vercel.app/",
-    siteName: "BrightSoftLabs",
+    siteName: "JBTech Solutions",
     images: [
       {
-        url: "/logo.png",
+        url: "/logo1.png",
         width: 1200,
         height: 630,
-        alt: "BrightSoftLabs - Innovative Web Solutions",
+        alt: "JBTech Solutions - Innovative Web Solutions",
       },
     ],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "BrightSoftLabs | Innovative Web Solutions",
+    title: "JBTech Solutions | Innovative Web Solutions",
     description:
       "Expert web development and blockchain integration services tailored for modern businesses.",
-    creator: "@BrightSoftLabs",
-    images: ["/logo.png"],
+    creator: "@JBTech Solutions",
+    images: ["/logo1.png"],
   },
   icons: {
-    icon: "/logo.png",             // Favicon (32x32 or 48x48)
-    shortcut: "/logo.png",         // Shortcut icon
-    apple: "/logo.png",   // Apple touch icon (180x180)
+    icon: "/logo1.png",             // Favicon (32x32 or 48x48)
+    shortcut: "/logo1.png",         // Shortcut icon
+    apple: "/logo1.png",   // Apple touch icon (180x180)
   },
 };
 
@@ -56,8 +56,8 @@ export default function RootLayout({ children }) {
       <head>
         <ThemeModeScript />
         {/* Favicon and Apple Touch Icon */}
-        <link rel="icon" href="/logo.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/logo.png" />
+        <link rel="icon" href="/logo1.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/logo1.png" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

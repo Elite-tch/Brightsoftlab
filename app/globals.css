@@ -7,7 +7,7 @@
 .nav {
   background: radial-gradient(circle at top left, #e83b0c, #000000 60%);
   color: #ffffff;
-  min-height: 100vh;
+  
   display: flex;
   align-items: center;
 }
