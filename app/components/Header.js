@@ -35,7 +35,7 @@ export default function NavBar() {
             </ul>
             <div className='hidden md:flex items-center'>
               <button className="bg-[#f25c34] hover:bg-[#1D1753] dark:hover:bg-[#f25c34]/80 dark:bg-[#f25c34] text-white md:px-4 px-3 py-2 rounded-md">
-                <Link href="/cv.pdf" download target="_blank" rel="noopener noreferrer">Download CV</Link>
+                <Link href="https://www.canva.com/design/DAGsxvI1dTU/pZeyzvbBhAXnT1pDLj9KyA/view?utm_content=DAGsxvI1dTU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h082deae10c"  target="_blank" rel="noopener noreferrer">Download CV</Link>
               </button>
               <DarkThemeToggle className='md:ml-6 !outline-none !border-none !ring-0 !ring-offset-0 !shadow-none hover:!bg-transparent active:!bg-transparent focus:!bg-transparent dark:!bg-transparent dark:hover:!bg-transparent hover:!border-none focus:!border-none active:!border-none dark:!border-none dark:hover:!border-none dark:!outline-none dark:focus:!ring-0 dark:active:!outline-none' />
             </div>
@@ -53,7 +53,7 @@ export default function NavBar() {
             <Link className='hover:border-b-2 hover:border-[#f25c34] w-fit  px-4 py-1' href="#testimonials">Testimonials</Link>
         
             <button className="hover:bg-[#1D1753] bg-[#f25c34] dark:bg[#f25c34]  w-fit text-white px-4 py-2 rounded-md">
-            <Link href="/cv.pdf" download target="_blank" rel="noopener noreferrer">Download CV</Link>
+            <Link href="https://www.canva.com/design/DAGsxvI1dTU/pZeyzvbBhAXnT1pDLj9KyA/view?utm_content=DAGsxvI1dTU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h082deae10c"  target="_blank" rel="noopener noreferrer">Download CV</Link>
             </button>
             <DarkThemeToggle className='mt-4 !outline-none !border-none !ring-0 !ring-offset-0 !shadow-none hover:!bg-transparent active:!bg-transparent focus:!bg-transparent dark:!bg-transparent dark:hover:!bg-transparent hover:!border-none focus:!border-none active:!border-none dark:!border-none dark:hover:!border-none dark:!outline-none dark:focus:!ring-0 dark:active:!outline-none' />
           </ul>
